@@ -1,0 +1,24 @@
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Perfil Pessoal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Marcelo de Souza</h1>
+    </header>
+    <section id="informacoes">
+        <h2>Programador Web</h2>
+        <p><strong>Curso de Graduação:</strong> Análise e Desenvolvimento de Sistemas</p>
+        <p><strong>Matrícula:</strong>202403317613</p>
+    </section>
+    <section id="objetivo-profissional">
+        <h2>Objetivo Profissional</h2>
+        <p>Atualmente estou cursando Ads. Busco trabalhar com tecnologias inovadoras.</p>
+    </section>
+</body>
+</html>
